@@ -5,7 +5,7 @@
 
 ### 🐱‍💻 &nbsp;About Me
 
-  <img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/code.gif?raw=true" width="400" height="200" />
+  <img align="right" alt="GIF" src="https://github.com/sreenathkumar/sreenathkumar/blob/main/javascript.gif" width="400" />
 
 Hey, I’m Sreenath Kumar. I’m a professional Wordpress & Frontend Web Developer. Passionate to learn new coding technologies and ideas. Currently expanding my knowledge to backend tecnologies such as Node js | Express js | Mongo DB. I’m looking to collaborate on React | Wordpress | HTML | CSS | Javascripts applications. Feel free to reach for any query.
 
