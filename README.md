@@ -1,6 +1,6 @@
 <h1 align="center" >Wordpress & Frontend Web Developer</h1>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">&nbsp;Hello there! 🙏 Please star <a href="https://github.com/sreenathkumar">my profile</a>! Thank you!
+### Hello there! 🙏 Please star <a href="https://github.com/sreenathkumar">my profile</a>! Thank you!
 
 
 ### 🐱‍💻 &nbsp;About Me
